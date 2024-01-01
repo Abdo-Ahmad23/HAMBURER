@@ -101,7 +101,7 @@
  */
 .secondSection{
     margin-top: 150px;
-    height: 150vh;
+    /* height: 100vh; */
 }
 .secondSection .text1{
     font-size: 3.75rem;
